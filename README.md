@@ -86,38 +86,31 @@ GROUP BY c.Customer_id, t.Category
 ORDER BY Purchases DESC;
 
 ```
+---
 ## 🧠 Learnings
 
-    Practiced SQL joins, GROUP BY, HAVING, and CASE statements
-
-    Built real-world logic for customer segmentation
-
-    Understood the business value of profiling and behavioral targeting
-
-    Exported reports for potential dashboard use
-
+- Practiced SQL joins, GROUP BY, HAVING, and CASE statements
+- Built real-world logic for customer segmentation
+- Understood the business value of profiling and behavioral targeting
+- Exported reports for potential dashboard use
+---
 ## 🛠 Tech Used
 
-    MySQL 8.0
+- MySQL 8.0
+- MySQL Workbench
+- CSV Exports
+- Google Sheets / Excel (for viewing results)
 
-    MySQL Workbench
-
-    CSV Exports
-
-    Google Sheets / Excel (for viewing results)
-
+---
 ## 🔗 Author
 
-    Naresh Tallapaka
-
-    📧 naresh.tallapaka@protonmail.com
-
-    🌐 LinkedIn
-
-    🌐 GitHub Portfolio
-
+- Naresh Tallapaka
+- 📧 naresh.tallapaka@protonmail.com
+- 🌐 LinkedIn
+- 🌐 GitHub Portfolio
+---
 ## ✅ Status
 
-    ✅ Completed and available as a course project
-
-    📂 Can be extended with Python dashboard or Power BI
+- ✅ Completed and available as a course project
+- 📂 Can be extended with Python dashboard or Power BI
+---
